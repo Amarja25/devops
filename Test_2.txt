@@ -1,1 +1,5 @@
 this is a test file
+
+File modified
+
+File modified after adding to .gitignore
